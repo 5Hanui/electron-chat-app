@@ -10,6 +10,11 @@ npm install
 npm run serve
 ```
 
+### Compiles and hot-reloads for Electron App development
+```
+npm run electron:serve
+```
+
 ### Compiles and minifies for production
 ```
 npm run build
